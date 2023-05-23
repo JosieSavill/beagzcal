@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/beagzcal/static/css/main.073c9b0a.css",
+    "main.js": "/beagzcal/static/js/main.c22e8732.js",
+    "static/js/787.905e5fbb.chunk.js": "/beagzcal/static/js/787.905e5fbb.chunk.js",
+    "static/media/logo.svg": "/beagzcal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/beagzcal/index.html",
+    "main.073c9b0a.css.map": "/beagzcal/static/css/main.073c9b0a.css.map",
+    "main.c22e8732.js.map": "/beagzcal/static/js/main.c22e8732.js.map",
+    "787.905e5fbb.chunk.js.map": "/beagzcal/static/js/787.905e5fbb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c22e8732.js"
+  ]
+}
